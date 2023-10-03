@@ -32,7 +32,7 @@ github:
   username: kenaagapito # change to your github username
 
 # twitter:
-#   username: twitter_username # change to your twitter username
+#   username: # change to your twitter username
 
 social:
   # Change to your full name.
@@ -66,14 +66,14 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark #light|dark
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.18169-9/5678_1275778675769136_296783231665241639_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeF5gkJ-sAQYrsBQUXjlU8nbSPQH0y7FY45I9AfTLsVjjo3OOj9TCVuCGfb2-kRRlLJvOuKjc2ftVEdXQuXTIXl3&_nc_ohc=DAw_YryjRGAAX8F0Vd0&_nc_ht=scontent.fmnl17-4.fna&oh=00_AfCJohJ56x6Eeqrhfjii5QBq0Msh9zWlZu7yQuyzpj9h2g&oe=6540928A"
@@ -180,6 +180,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json
