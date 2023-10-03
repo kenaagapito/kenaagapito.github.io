@@ -11,7 +11,7 @@ In today's NBA, traditional playstyles are constantly evolving, leading to the e
 
 ## Data Source
 
-The data came from [basketball-reference.com](https://basketball-reference.com) which contains the basketball statistics of players from the NBA and other prominent leagues. I focused on per-game average statistics of NBA players during the 2021-2022 regular season. The data can be downloaded as a CSV file through [this link](https://www.basketball-reference.com/leagues/NBA_2022_per_game.html) under the "Share & Export" button.
+The data came from [basketball-reference.com](basketball-reference.com) which contains the basketball statistics of players from the NBA and other prominent leagues. I focused on per-game average statistics of NBA players during the 2021-2022 regular season. The data can be downloaded as a CSV file through [this link](https://www.basketball-reference.com/leagues/NBA_2022_per_game.html) under the "Share & Export" button.
 
 ![figure-1](figure-1.png){: w="600" }
 _Figure 1. Screenshot from basketball-reference.com._
